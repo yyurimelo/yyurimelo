@@ -18,7 +18,7 @@
 
 ##
 
-🌐 Connect with me:
+Connect with me:
 
 [![Intagram Badge](https://img.shields.io/badge/-@yyurimelo-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/yyurimelo/)](https://www.instagram.com/yyurimelo/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yyurimelo/)](https://www.linkedin.com/in/yyurimelo/) 

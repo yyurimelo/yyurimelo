@@ -20,8 +20,7 @@
 
 🌐 Connect with me:
 
-<div>
-<a href="https://www.instagram.com/yyurimelo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-9146FF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:yuri.devsy@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-9146FF?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/yyurimelo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-9146FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+[![Intagram Badge](https://img.shields.io/badge/-@yyurimelo-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/yyurimelo/)](https://www.instagram.com/yyurimelo/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yyurimelo/)](https://www.linkedin.com/in/yyurimelo/) 
+[![Gmail Badge](https://img.shields.io/badge/-yuri.devsy@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuri.devsy@gmail.com)](mailto:yuri.devsy@gmail.com)  
+

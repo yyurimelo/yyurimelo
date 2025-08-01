@@ -21,7 +21,7 @@
 🌐 Connect with me:
 
 <div>
-<a href="https://www.instagram.com/yyurimelo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:yuri.devsy@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/yyurimelo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.instagram.com/yyurimelo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-9146FF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:yuri.devsy@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-9146FF?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/yyurimelo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-9146FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
